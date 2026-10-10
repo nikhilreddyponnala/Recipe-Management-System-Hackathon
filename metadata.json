@@ -1,0 +1,7 @@
+{
+  "name": "RecipeHub — Recipe Management Platform",
+  "description": "Full-stack MERN recipe management platform with JWT authentication, role-based access control, rich search & filtering, favorites, and complete CRUD capabilities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
